@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,shein.com,Overseas,[]FINAL
 DOMAIN-SUFFIX,shein.tw,Overseas,[]FINAL
 DOMAIN-SUFFIX,shein.com.tw,Overseas,[]FINAL
+DOMAIN-SUFFIX,jp.shein.com,Overseas,[]FINAL
+DOMAIN-SUFFIX,kr.shein.com,Overseas,[]FINAL
 DOMAIN-SUFFIX,sheinside.com,Overseas,[]FINAL
 DOMAIN-SUFFIX,sheincdn.com,Overseas,[]FINAL
 DOMAIN-SUFFIX,sheinapi.com,Overseas,[]FINAL
@@ -13,3 +15,4 @@ DOMAIN-KEYWORD,shein,Overseas,[]FINAL
 DOMAIN-KEYWORD,sheinside,Overseas,[]FINAL
 DOMAIN-KEYWORD,sheincdn,Overseas,[]FINAL
 DOMAIN-KEYWORD,sheinapi,Overseas,[]FINAL
+
