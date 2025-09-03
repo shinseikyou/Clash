@@ -1,0 +1,12 @@
+# =========================
+# Temu 域名规则
+# =========================
+DOMAIN-SUFFIX,temu.com,Overseas,[]FINAL
+DOMAIN-SUFFIX,temu.tw,Overseas,[]FINAL
+DOMAIN-SUFFIX,temcdn.com,Overseas,[]FINAL
+DOMAIN-SUFFIX,temapi.com,Overseas,[]FINAL
+DOMAIN-SUFFIX,temapi.tw,Overseas,[]FINAL
+DOMAIN-KEYWORD,temu,Overseas,[]FINAL
+DOMAIN-KEYWORD,tem,Overseas,[]FINAL
+DOMAIN-KEYWORD,temcdn,Overseas,[]FINAL
+DOMAIN-KEYWORD,temapi,Overseas,[]FINAL
