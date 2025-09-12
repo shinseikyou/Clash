@@ -1,0 +1,7 @@
+# =========================
+# capcut 域名规则
+# =========================
+DOMAIN-SUFFIX,capcut.com,Overseas,[]FINAL
+DOMAIN-SUFFIX,capcut,Overseas,[]FINAL
+DOMAIN-KEYWORD,capcut.com,Overseas,[]FINAL
+DOMAIN-KEYWORD,capcut,Overseas,[]FINAL
